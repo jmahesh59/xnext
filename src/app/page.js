@@ -2,9 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div className='text-red-500'>
-      page
-    </div>
+  <h1>Home page</h1>
   )
 }
 
